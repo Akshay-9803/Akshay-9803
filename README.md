@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @Akshay-9803
+- 👋 Hi, I’m @T Naga Sai Akshay
 - 👀 I’m interested in contributing my ideas to actuarial space. 
 - 🌱 I’m currently learning Python, R
-- 💞️ I’m looking to collaborate on actuarial projects
+- 💞️ I’m looking to collaborate on actuarial projects on Life and Health Insurance
+- I am currently working on how **Climate Change Impacts Mortality**
 - 📫 How to reach me through takshaygupta9803@gmail.com
 
 <!---
